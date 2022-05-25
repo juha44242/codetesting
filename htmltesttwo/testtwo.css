@@ -1,0 +1,82 @@
+body {
+  background-color:	rgba(240, 128, 128, 0.3);
+  font-family: "Cambria", Georgia, Times;
+  color: #990000;
+  }
+  h1, h2, h4, h5 {
+  color: #990000;
+  font-family: "Cambria", Georgia, Times;
+  text-align: center;
+ }
+ h1 {
+ font-size: 50px;
+ }
+ h5 {
+ font-size: 20px;
+ }
+    <style>
+    * {
+      box-sizing: border-box;
+      }
+                      /* header klassisk opbygning*/
+                      .header {
+                      background-color: #f08080;
+                      padding: 30px;
+                      text-align: center;
+                      font-size: 30px;
+                      }
+                      .red {
+                      color:#990000;
+                      }
+
+
+                                    img {
+                                    display: block;
+                                    height: 200px;
+                                    width: 600px;
+                                    padding: 10px;
+                                    margin-left: auto;
+                                    margin-right: auto;
+                                    /* billede i midten af siden*/
+                                    }
+                      #div1 {
+                      width: 600px;
+                      height: auto;
+                      border-style: solid;
+                      margin-left: auto;
+                      margin-right: auto;
+                      background-color: #FF8BBA;
+                      }
+                      #div2 {
+                      width: 600px;
+                      height: auto;
+                      border-style: solid;
+                      margin-left: auto;
+                      margin-right: auto;
+                      background-color: #FF8BBA;
+                      }
+
+                      ul.red {
+                      list-style-type: square;
+                      text-align: center;
+                      list-style-position: inside;
+                      }
+
+                                    table, th, td {
+                                    border: 3px solid #990000;
+                                    border-collapse: collapse;
+                                    text-align: left;
+                                    }
+                                      table {
+                                      width: 550px;
+                                      margin-left: auto;
+                                      margin-right: auto;
+                                      }
+                                      th {
+                                      height: 30px;
+                                      padding: 5px;
+                                      }
+                                      td {
+                                      height: 25px;
+                                      padding: 10px;
+                                      }
