@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+        header {
+            background-color: blue;
+        }
+            h1 {
+            color: white;
+            }
+            p {
+             color: blue;
+            }
+            link {
+                color: white;
+            }
+        footer {
+            background-color: blue;
+        }
