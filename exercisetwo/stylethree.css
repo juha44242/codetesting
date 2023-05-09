@@ -1,0 +1,45 @@
+body {
+    background-color:#dbf6d1;
+    padding: 0;
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+}
+
+header {
+    background-color:#678165;
+    text-align: center;
+            flex: 0 0 0 40px;
+            color: white;
+            /*justify-content: center; */
+            padding: 20px;
+}
+nav {
+    background-color: #92a98e;
+    padding: 20px;
+    height: 30px;
+    margin: 0px;
+
+}
+
+.div1 {
+    float: left;
+    position: absolute;
+    padding: 10px;
+    left: 0px;
+
+}
+
+.div2 {
+    float: right;
+    position: absolute;
+    padding: 10px;
+    right: 0px;
+}
+
+footer {
+    background-color: #678165;
+    padding: 0;
+    height: 50px;
+    margin: 0px;
+}

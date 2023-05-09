@@ -1,0 +1,9 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+
+/* jusitify content: flex-start flex-end center space-around 
+space-between space-evenly */
+
+/* flex-grow, flex-shrink, flex-basic*/
